@@ -150,14 +150,14 @@ const hung = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hungdz2001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&count_private=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hungdz2001&theme=tokyonight&hide_border=true&background=0d1117&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd&sideLabels=70a5fd&currStreakNum=38bdae&sideNums=38bdae&dates=8b949e" alt="GitHub Streak" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hungdz2001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=hungdz2001&theme=tokyonight&hide_border=true&background=0d1117&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd&sideLabels=70a5fd&currStreakNum=38bdae&sideNums=38bdae&dates=8b949e" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungdz2001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=38bdae&langs_count=10" alt="Top Languages" />
+<img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hungdz2001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=38bdae&langs_count=10&cache_seconds=86400" alt="Top Languages" />
 
 </div>
 
@@ -253,7 +253,7 @@ Windows                  27 mins             ███████████�
 
 <div align="center">
 
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=hungdz2001&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=38bdae&layout=compact)](https://wakatime.com/@hungdz2001)
+[![WakaTime](https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=hungdz2001&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=38bdae&layout=compact&cache_seconds=86400)](https://wakatime.com/@hungdz2001)
 
 </div>
 
