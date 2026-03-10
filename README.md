@@ -190,8 +190,65 @@ const hung = {
 ## ⏱️ WakaTime Stats | Thống kê code
 
 <!--START_SECTION:waka-->
-<!-- WakaTime stats sẽ tự động cập nhật ở đây nếu bạn setup WakaTime -->
-<!-- Xem hướng dẫn setup bên dưới -->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2057%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-429.29%20thousand%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 178 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 2 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                130 commits         █████████████░░░░░░░░░░░░   50.98 % 
+🌆 Daytime                111 commits         ███████████░░░░░░░░░░░░░░   43.53 % 
+🌃 Evening                1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+🌙 Night                  13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+Tuesday                  7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+Wednesday                47 commits          █████░░░░░░░░░░░░░░░░░░░░   18.43 % 
+Thursday                 55 commits          █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
+Friday                   115 commits         ███████████░░░░░░░░░░░░░░   45.10 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+Other                    27 mins             █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  27 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+portfolio                27 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  27 mins             █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 10/03/2026 05:06:54 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
