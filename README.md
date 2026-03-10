@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:24283b&height=200&section=header&text=Trần%20Chấn%20Hưng&fontSize=42&fontColor=70a5fd&fontAlignY=35&desc=Vibe%20Coding%20Developer%20🇻🇳&descSize=18&descColor=bf91f3&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:24283b&height=220&section=header&text=Trần%20Chấn%20Hưng&fontSize=50&fontColor=70a5fd&fontAlignY=32&desc=Vibe%20Coding%20Developer%20🇻🇳&descSize=20&descColor=bf91f3&descAlignY=58&animation=fadeIn" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Tr%E1%BA%A7n+Ch%E1%BA%A5n+H%C6%B0ng;Vibe+Coding+%E2%80%94+Programming+is+creative+art+%F0%9F%8E%A8;Full+Stack+Developer+from+Vietnam+%F0%9F%87%BB%F0%9F%87%B3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=650&height=50&lines=Hi+%F0%9F%91%8B+I'm+Tr%E1%BA%A7n+Ch%E1%BA%A5n+H%C6%B0ng;Vibe+Coding+%E2%80%94+Programming+is+creative+art+%F0%9F%8E%A8;Full+Stack+Developer+from+Vietnam+%F0%9F%87%BB%F0%9F%87%B3)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=hungdz2001&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 
@@ -253,7 +253,7 @@ Windows                  27 mins             ███████████�
 
 <div align="center">
 
-[![WakaTime](https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=hungdz2001&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=38bdae&layout=compact&cache_seconds=86400)](https://wakatime.com/@hungdz2001)
+[![wakatime](https://wakatime.com/badge/user/1009ae82-fced-4b73-a5bb-17fd429a628c.svg?style=for-the-badge)](https://wakatime.com/@hungdz2001)
 
 </div>
 
