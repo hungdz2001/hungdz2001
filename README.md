@@ -200,7 +200,7 @@ const hung = {
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 216 Contributions in the Year 2026
+> 🏆 217 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -211,21 +211,21 @@ const hung = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                156 commits         ██████████████░░░░░░░░░░░   54.17 % 
-🌆 Daytime                118 commits         ██████████░░░░░░░░░░░░░░░   40.97 % 
+🌞 Morning                157 commits         ██████████████░░░░░░░░░░░   54.33 % 
+🌆 Daytime                118 commits         ██████████░░░░░░░░░░░░░░░   40.83 % 
 🌃 Evening                1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-🌙 Night                  13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+🌙 Night                  13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   34 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
-Tuesday                  13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
-Wednesday                55 commits          █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
-Thursday                 59 commits          █████░░░░░░░░░░░░░░░░░░░░   20.49 % 
-Friday                   119 commits         ██████████░░░░░░░░░░░░░░░   41.32 % 
-Saturday                 4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
-Sunday                   4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+Monday                   35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+Tuesday                  13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+Wednesday                55 commits          █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
+Thursday                 59 commits          █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
+Friday                   119 commits         ██████████░░░░░░░░░░░░░░░   41.18 % 
+Saturday                 4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+Sunday                   4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
 ```
 
 
@@ -235,25 +235,25 @@ Sunday                   4 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               3 hrs 12 mins       ████████████░░░░░░░░░░░░░   48.35 % 
-Other                    1 hr 44 mins        ███████░░░░░░░░░░░░░░░░░░   26.16 % 
-Python                   1 hr 14 mins        █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
-Markdown                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+Other                    2 hrs 36 mins       █████████████████░░░░░░░░   67.81 % 
+TypeScript               57 mins             ██████░░░░░░░░░░░░░░░░░░░   25.05 % 
+Python                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+PowerShell               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 38 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 51 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          4 hrs 37 mins       █████████████████░░░░░░░░   69.63 % 
-Projects                 2 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   30.37 % 
+Unknown Project          2 hrs 20 mins       ███████████████░░░░░░░░░░   60.69 % 
+Projects                 1 hr 30 mins        ██████████░░░░░░░░░░░░░░░   39.31 % 
 
 💻 Operating System: 
-Windows                  6 hrs 38 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/04/2026 02:54:31 UTC
+ Last Updated on 07/04/2026 02:48:17 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
