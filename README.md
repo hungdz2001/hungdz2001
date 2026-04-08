@@ -190,17 +190,17 @@ const hung = {
 ## ⏱️ WakaTime Stats | Thống kê code
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-45%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-47%20hrs%2054%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-439.41%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-439.57%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 217 Contributions in the Year 2026
+> 🏆 220 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -211,21 +211,21 @@ const hung = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                157 commits         ██████████████░░░░░░░░░░░   54.33 % 
-🌆 Daytime                118 commits         ██████████░░░░░░░░░░░░░░░   40.83 % 
-🌃 Evening                1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-🌙 Night                  13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+🌞 Morning                160 commits         ██████████████░░░░░░░░░░░   54.79 % 
+🌆 Daytime                118 commits         ██████████░░░░░░░░░░░░░░░   40.41 % 
+🌃 Evening                1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+🌙 Night                  13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
-Tuesday                  13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-Wednesday                55 commits          █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
-Thursday                 59 commits          █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
-Friday                   119 commits         ██████████░░░░░░░░░░░░░░░   41.18 % 
-Saturday                 4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
-Sunday                   4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+Monday                   35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
+Tuesday                  16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+Wednesday                55 commits          █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
+Thursday                 59 commits          █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
+Friday                   119 commits         ██████████░░░░░░░░░░░░░░░   40.75 % 
+Saturday                 4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+Sunday                   4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 ```
 
 
@@ -235,25 +235,26 @@ Sunday                   4 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    2 hrs 36 mins       █████████████████░░░░░░░░   67.81 % 
-TypeScript               57 mins             ██████░░░░░░░░░░░░░░░░░░░   25.05 % 
-Python                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
-PowerShell               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Other                    2 hrs 56 mins       ██████████████████░░░░░░░   70.23 % 
+TypeScript               58 mins             ██████░░░░░░░░░░░░░░░░░░░   23.11 % 
+Python                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+PowerShell               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 51 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 11 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          2 hrs 20 mins       ███████████████░░░░░░░░░░   60.69 % 
-Projects                 1 hr 30 mins        ██████████░░░░░░░░░░░░░░░   39.31 % 
+Unknown Project          2 hrs 20 mins       ██████████████░░░░░░░░░░░   55.94 % 
+Projects                 1 hr 30 mins        █████████░░░░░░░░░░░░░░░░   36.24 % 
+WEB LÔ TÔ BẢN GỐC - Copy 19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
 
 💻 Operating System: 
-Windows                  3 hrs 51 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/04/2026 02:48:17 UTC
+ Last Updated on 08/04/2026 02:49:14 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
