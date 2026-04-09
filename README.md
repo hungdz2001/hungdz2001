@@ -190,7 +190,7 @@ const hung = {
 ## ⏱️ WakaTime Stats | Thống kê code
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-47%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-47%20hrs%2019%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -200,7 +200,7 @@ const hung = {
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 220 Contributions in the Year 2026
+> 🏆 221 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -211,19 +211,19 @@ const hung = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                160 commits         ██████████████░░░░░░░░░░░   54.79 % 
-🌆 Daytime                118 commits         ██████████░░░░░░░░░░░░░░░   40.41 % 
+🌞 Morning                161 commits         ██████████████░░░░░░░░░░░   54.95 % 
+🌆 Daytime                118 commits         ██████████░░░░░░░░░░░░░░░   40.27 % 
 🌃 Evening                1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
-🌙 Night                  13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+🌙 Night                  13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
-Tuesday                  16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
-Wednesday                55 commits          █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
-Thursday                 59 commits          █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
-Friday                   119 commits         ██████████░░░░░░░░░░░░░░░   40.75 % 
+Monday                   35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+Tuesday                  16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+Wednesday                56 commits          █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
+Thursday                 59 commits          █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
+Friday                   119 commits         ██████████░░░░░░░░░░░░░░░   40.61 % 
 Saturday                 4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 Sunday                   4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 ```
@@ -235,26 +235,26 @@ Sunday                   4 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    2 hrs 56 mins       ██████████████████░░░░░░░   70.23 % 
-TypeScript               58 mins             ██████░░░░░░░░░░░░░░░░░░░   23.11 % 
-Python                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-PowerShell               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Other                    3 hrs 44 mins       ████████████████░░░░░░░░░   62.46 % 
+TypeScript               1 hr 20 mins        ██████░░░░░░░░░░░░░░░░░░░   22.33 % 
+Python                   48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+PowerShell               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 11 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          2 hrs 20 mins       ██████████████░░░░░░░░░░░   55.94 % 
-Projects                 1 hr 30 mins        █████████░░░░░░░░░░░░░░░░   36.24 % 
-WEB LÔ TÔ BẢN GỐC - Copy 19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+Projects                 3 hrs 20 mins       ██████████████░░░░░░░░░░░   55.54 % 
+Unknown Project          2 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   39.00 % 
+WEB LÔ TÔ BẢN GỐC - Copy 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
 
 💻 Operating System: 
-Windows                  4 hrs 11 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs               █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 08/04/2026 02:49:14 UTC
+ Last Updated on 09/04/2026 02:43:52 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
